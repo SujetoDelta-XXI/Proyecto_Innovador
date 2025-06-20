@@ -52,17 +52,17 @@
 
 ## 👥 Equipo de Desarrollo
 
-- **Valeria Ríos** – Product Owner & Coordinadora de UX  
-- **Carlos Asparrin** – Frontend Developer (React)  
-- **Luis Gutierrez** – Backend Developer (API & Seguridad)  
-- **Natalie Ruiz** – QA & Comunicación Institucional  
+- **Mathias Villena** –  
+- **Carlos Asparrin** – Desarrollar Frontend(React)
+- **Angela Lopez** –  
+- **Erick Campos** –   
 
 ---
 
 ## 🌍 Impacto Esperado
 
-- 🧾 **Trazabilidad y reconocimiento** de la acción ciudadana individual y colectiva.  
-- 🤝 **Fortalecimiento del tejido social** a través de alianzas activas entre ciudadanía e instituciones.  
-- 📈 **Incremento en la participación juvenil y comunitaria** en proyectos de voluntariado a nivel nacional.  
-- 💡 **Visibilización de causas locales** con mayor acceso a manos voluntarias y recursos.  
-- 📣 **Cultura ciudadana más activa y solidaria**, comprometida con la transformación del entorno.
+- 🧾 **Trazabilidad y reconocimiento** -> de la acción ciudadana individual y colectiva.  
+- 🤝 **Fortalecimiento del tejido social** -> a través de alianzas activas entre ciudadanía e instituciones.  
+- 📈 **Incremento en la participación juvenil y comunitaria** -> en proyectos de voluntariado a nivel nacional.  
+- 💡 **Visibilización de causas locales** -> con mayor acceso a manos voluntarias y recursos.  
+- 📣 **Cultura ciudadana más activa y solidaria** -> comprometida con la transformación del entorno.

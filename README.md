@@ -83,10 +83,10 @@ Fomentar comunidades saludables: Facilita la implementación en espacios educati
 
 ## 👥 Equipo de Desarrollo
 
-- **Mathias Villena** –  
+- **Mathias Villena** –  Desarrollar Codigo Arduino
 - **Carlos Asparrin** – Desarrollar Frontend(React)
-- **Angela Lopez** –  
-- **Erick Campos** –   
+- **Angela Lopez** –  Desarrollar Backend(Node.js)
+- **Erick Campos** –   Implementar las conexiones fisicas
 
 ---
 
@@ -97,3 +97,4 @@ Fomentar comunidades saludables: Facilita la implementación en espacios educati
 - 📈 **Incremento en la participación juvenil y comunitaria** -> en proyectos de voluntariado a nivel nacional.  
 - 💡 **Visibilización de causas locales** -> con mayor acceso a manos voluntarias y recursos.  
 - 📣 **Cultura ciudadana más activa y solidaria** -> comprometida con la transformación del entorno.
+

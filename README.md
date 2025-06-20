@@ -83,8 +83,17 @@ Fomentar comunidades saludables: Facilita la implementación en espacios educati
 
 ## 👥 Equipo de Desarrollo
 
-- **Mathias Villena** –  Desarrollar Backend (Node.js)
+- **Mathias Villena** –  
 - **Carlos Asparrin** – Desarrollar Frontend(React)
-- **Angela Lopez** –  Diseño UX/UI
-- **Erick Campos** –  Desarrollo en Arduino 
+- **Angela Lopez** –  
+- **Erick Campos** –   
 
+---
+
+## 🌍 Impacto Esperado
+
+- 🧾 **Trazabilidad y reconocimiento** -> de la acción ciudadana individual y colectiva.  
+- 🤝 **Fortalecimiento del tejido social** -> a través de alianzas activas entre ciudadanía e instituciones.  
+- 📈 **Incremento en la participación juvenil y comunitaria** -> en proyectos de voluntariado a nivel nacional.  
+- 💡 **Visibilización de causas locales** -> con mayor acceso a manos voluntarias y recursos.  
+- 📣 **Cultura ciudadana más activa y solidaria** -> comprometida con la transformación del entorno.

@@ -52,10 +52,10 @@
 
 ## 👥 Equipo de Desarrollo
 
-- **Mathias Villena** –  
-- **Carlos Asparrin** – Desarrollar Frontend(React)
-- **Angela Lopez** –  
-- **Erick Campos** –   
+- **Mathias Villena** – Desarrollador Backend (API & Seguridad)
+- **Carlos Asparrin** – Desarrollador Frontend (React)  
+- **Angela Lopez** – Diseñador UX/UI   
+- **Erick Campos** – Coordinador de Desarrollo y Testing  
 
 ---
 

@@ -1,68 +1,90 @@
-# 🌱🤝 ActúaHoy: Unidos por un Perú Mejor✨
+## 👥 Sensor de Movimiento Saludable
 
-## 📖 Descripción
+## 👥 Descripción
 
-**ActúaHoy** es una plataforma web que conecta ciudadanos comprometidos con organizaciones sociales, instituciones educativas, colectivos juveniles y cualquier grupo con iniciativas de impacto positivo. El sitio permite **publicar actividades de voluntariado**, **registrar participación individual** y **construir una cultura activa de servicio** y responsabilidad social en todo el Perú.
+Este proyecto integra tecnologías de Arduino, React, Node.js y Vite para construir un sensor de movimiento orientado a generar un impacto social positivo. La solución está diseñada para promover la vida saludable y fomentar pausas activas, combatiendo el sedentarismo en personas que pasan largas horas trabajando o estudiando, utilizando tecnología accesible y fácil de implementar.
 
----
+## Características principales
 
-## 🧐 Problemática
+Monitorización en tiempo real: El sensor de movimiento detecta la inactividad y envía alertas al usuario.
 
-- 📉 **Falta de canales accesibles** para que personas interesadas en ayudar encuentren dónde participar.  
-- 🤷‍♂️ **Desorganización y escasa difusión** de actividades comunitarias.  
-- 📂 **Poca trazabilidad** de las experiencias y aportes voluntarios de los ciudadanos.  
-- 💬 **Escasa colaboración interinstitucional** para resolver problemáticas sociales desde lo local.  
-- 🔍 **Dificultad para medir el impacto social** de las acciones voluntarias en comunidades vulnerables.
+Notificaciones dinámicas: Interfaz web en React que muestra recordatorios para realizar pausas activas.
 
----
+Back-end escalable: Servidor en Node.js con endpoints REST que gestionan la configuración y el histórico de pausas.
 
-## 💡 Solución
+Desarrollo rápido: Bundler Vite para optimizar la experiencia de desarrollo y el despliegue.
 
-**ActúaHoy** plantea una solución digital centrada en la comunidad:
+Social y accesible: Diseñado con el objetivo de mejorar la salud y productividad de comunidades académicas y laborales.
 
-- 🧭 Un **directorio nacional de actividades voluntarias**, organizadas por fecha, ubicación o tipo de causa.  
-- 🧑‍💻 Un sistema de **registro personal de participación**, donde cada voluntario puede ver su historial.  
-- 🏢 Un módulo para que **organizaciones creen y gestionen actividades sociales**, visibles para todo el público.  
-- 📲 **Notificaciones personalizadas** sobre nuevas oportunidades según tus intereses y ubicación.  
-- 📊 **Reportes de impacto** acumulativo por persona, grupo y región.
+## 👥 Tecnologías
 
----
+Hardware: Arduino (sensor de movimiento PIR, LED)
 
-## 🚀 Características Principales
+Front-end: React, Vite
 
-- 🔍 **Explorar Actividades**: por categoría (educación, medio ambiente, salud, etc.), región y tipo de voluntariado.  
-- 📝 **Registro de Participación**: cada usuario lleva un historial con fechas, horas y organizaciones.  
-- 🏛️ **Panel para Organizaciones**: creación, edición y seguimiento de actividades propuestas.  
-- 🌎 **Mapa Interactivo**: visualiza eventos cercanos en tiempo real.  
-- 💼 **Perfil Voluntario**: nivel de compromiso, insignias por logros, y constancias descargables.  
-- 🤝 **Conexión Colaborativa**: foros y mensajería para coordinar esfuerzos ciudadanos.
+Back-end: Node.js, Express
 
----
+Comunicación: WebSockets o HTTP para transmisión de datos en tiempo real
 
-## 🛠️ Tecnologías y Herramientas
+Control de versiones: Git & GitHub
 
-- **React.js** – Interfaz dinámica y responsiva  
-- **Node.js + Express** – Backend rápido y escalable  
-- **MongoDB** – Base de datos flexible para usuarios y actividades  
-- **Firebase Auth** – Registro y autenticación segura  
-- **Leaflet.js / Mapbox** – Mapa de actividades con geolocalización  
-- **Chart.js** – Visualización de métricas de participación  
+## 👥 Instalación
 
----
+Clonar el repositorio:
+
+git clone https://github.com/tu-usuario/sensor-movimiento-saludable.git
+cd sensor-movimiento-saludable
+
+Configurar Arduino:
+
+Conecta el sensor PIR y el LED al Arduino.
+
+Sube el sketch arduino/sensor.ino usando el IDE de Arduino.
+
+Back-end:
+
+cd server
+npm install
+npm run dev
+
+Front-end:
+
+cd client
+npm install
+npm run dev
+
+Abrir la aplicación:
+
+Front-end: http://localhost:5173
+
+Back-end API: http://localhost:3000
+
+## 👥 Uso
+
+Inicia el servidor de Node.js.
+
+Inicia la aplicación React con Vite.
+
+Coloca el dispositivo Arduino en tu espacio de trabajo.
+
+Cuando detecte inactividad prolongada, la interfaz web mostrará una alerta para realizar una pausa activa.
+
+Realiza ejercicios breves o estiramientos, y confirma en la aplicación que completaste la pausa.
+
+## 👥 Impacto Social
+
+Este proyecto busca:
+
+Reducir sedentarismo: Incentiva movimientos regulares durante la jornada de estudio o trabajo.
+
+Mejorar salud mental y física: Promover pausas activas ayuda a disminuir el estrés y mejorar la concentración.
+
+Fomentar comunidades saludables: Facilita la implementación en espacios educativos y corporativos para crear hábitos sostenibles.
 
 ## 👥 Equipo de Desarrollo
 
-- **Mathias Villena** –  
+- **Mathias Villena** –  Desarrollar Backend (Node.js)
 - **Carlos Asparrin** – Desarrollar Frontend(React)
-- **Angela Lopez** –  
-- **Erick Campos** –   
+- **Angela Lopez** –  Diseño UX/UI
+- **Erick Campos** –  Desarrollo en Arduino 
 
----
-
-## 🌍 Impacto Esperado
-
-- 🧾 **Trazabilidad y reconocimiento** -> de la acción ciudadana individual y colectiva.  
-- 🤝 **Fortalecimiento del tejido social** -> a través de alianzas activas entre ciudadanía e instituciones.  
-- 📈 **Incremento en la participación juvenil y comunitaria** -> en proyectos de voluntariado a nivel nacional.  
-- 💡 **Visibilización de causas locales** -> con mayor acceso a manos voluntarias y recursos.  
-- 📣 **Cultura ciudadana más activa y solidaria** -> comprometida con la transformación del entorno.

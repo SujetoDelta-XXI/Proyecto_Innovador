@@ -28,6 +28,20 @@ Comunicación: WebSockets o HTTP para transmisión de datos en tiempo real
 
 Control de versiones: Git & GitHub
 
+## Herramientas
+
+Visual Studio Code: Editor de código con extensiones para Arduino y desarrollo web.
+
+Arduino IDE: Para programar y cargar sketches en la placa Arduino.
+
+PlatformIO (opcional): Entorno alternativo en VS Code para gestión de proyectos de microcontroladores.
+
+Node.js & npm: Ejecutar el servidor y gestionar dependencias.
+
+Postman: Probar y documentar los endpoints REST de la API.
+
+Git & GitHub: Control de versiones, colaboración y hospedaje del repositorio.
+
 ## 👥 Instalación
 
 Clonar el repositorio:
@@ -83,10 +97,10 @@ Fomentar comunidades saludables: Facilita la implementación en espacios educati
 
 ## 👥 Equipo de Desarrollo
 
-- **Mathias Villena** –  Desarrollar Codigo Arduino
+ **Erik Campos** –   Implementar las conexiones fisicas
 - **Carlos Asparrin** – Desarrollar Frontend(React)
 - **Angela Lopez** –  Desarrollar Backend(Node.js)
-- **Erick Campos** –   Implementar las conexiones fisicas
+- **Mathias Villena** –  Desarrollar Codigo Arduino
 
 ---
 
